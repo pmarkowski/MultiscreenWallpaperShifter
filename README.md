@@ -12,6 +12,10 @@ to this is to take the image you want, and cut and move sections and order them 
 same order. This is tedious and seemed like it could be automated so I wrote this console
 application.
 
+## Get It
+
+Download [here](https://github.com/pmarkowski/MultiscreenWallpaperShifter/releases/download/v1.0/msws.exe).
+
 ## Usage
 
 At it's simplest, open the Windows command prompt and run `msws.exe image`, where `image`
