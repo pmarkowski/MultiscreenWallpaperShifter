@@ -16,12 +16,18 @@ application.
 
 At it's simplest, open the Windows command prompt and run `msws.exe image`, where `image`
 is the wallpaper you want to modify. The modified file will be created in the same directory
-as the .exe 
+as the .exe as `output.png`
 
 ### Options
 
 `/o output`
 Supply an output file or path instead of using the default.
+
+`/f format`
+Where `format` is one of `jpeg` or `png`. This sets the image format of the output file.
+
+**Note:** The file extension of the file is not automatically appended. If using the format
+option make sure the extension of the output file is consistent.
 
 ## Notes
 
