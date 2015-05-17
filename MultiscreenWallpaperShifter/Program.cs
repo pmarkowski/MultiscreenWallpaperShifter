@@ -32,7 +32,7 @@ namespace MultiscreenWallpaperShifter
                 return;
             }
 
-            string outFilename = "output";
+            string outFilename = "output.png";
             ImageFormat outFormat = ImageFormat.Png;
             string imageFormatString = "";
             // Get options
